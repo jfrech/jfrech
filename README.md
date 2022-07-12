@@ -4,7 +4,7 @@ I am no longer interested in participating in this aloof Octocat mess. Should yo
 
 *Jonathan Frech, 2022-07-12*
 
-# References
+### References
 * \[DeVault22\] DeVault, Drew: *GitHub Copilot and open source laundering*. Blog post, 2022-06-23. Online: https://drewdevault.com/2022/06/23/Copilot-GPL-washing.html \[accessed 2022-07-09\]
 * \[Dohmke22\] Dohmke, Thomas: *GitHub Copilot is generally available to all developers*. On the GitHub blog, 2022-06-21. Online: https://github.blog/author/ashtom/ \[accessed 2022-07-12\]
 * \[Git22\] Git: (banner slogan). Online: https://git-scm.com/ \[accessed 2022-07-12; HTTP response is not static\].
